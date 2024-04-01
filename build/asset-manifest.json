@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.daad0588.css",
+    "main.js": "/static/js/main.d8b233a0.js",
+    "static/media/Digital_rain_animation_small_letters_shine.gif": "/static/media/Digital_rain_animation_small_letters_shine.4ddca7db8f79cf3c91b8.gif",
+    "index.html": "/index.html",
+    "main.daad0588.css.map": "/static/css/main.daad0588.css.map",
+    "main.d8b233a0.js.map": "/static/js/main.d8b233a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daad0588.css",
+    "static/js/main.d8b233a0.js"
+  ]
+}

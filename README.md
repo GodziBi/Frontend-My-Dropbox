@@ -1,47 +1,25 @@
-# Instruction how to send project to review
-- [Russian](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/edit/main/README.md)
-# Frontend My Dropbox
-### What is dropbox could be a serverless app?
-This is what it's all about!
+# Attention🚨
+Since github doesn't accept the "node_module" file, this file doesn't exist in the application.
+open the program using VScode and open the terminal and enter this code.
+# About 𝖎
 
-### First, what is dropbox? :)
-Amazon has a free tier. You should be able to host it for 0$. :)
+- "DropBox" app built with react js in mind
+creating and managing a database.
+# Netlify Link🔗
 
-Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software.
+- https://asilbek-erkinov-dropbox.netlify.app
 
-=> File synchronization, that sounds cool!
+# Usage⤵️
+First you delete the node module file using the terminal, then you start the file using the start code
 
-### Secondly, what is serverless?
-Serverless computing is a method of providing backend services on an as-used basis. Servers are still used, but a company that gets backend services from a serverless vendor is charged based on usage, not a fixed amount of bandwidth or number of servers.
+- npm i -> "install node_module"
 
-=> We configure a backend at from a provider and it will handle the load/scaling for us.
+- npm start -> " open project in Browser"
 
-Let's implement a file synchronization using Amplify & Lambda & S3
+# Contact the developer🧑🏻‍💻
+📷INSTAGRAM:godzi.bi
 
-Example of architecture:
-<img src="https://storage.googleapis.com/qwasar-public/track-web/my_dropbox.jpeg"/>
+💻GIT HUB: GODZI1100
 
+👾Discord: dary666
 
-You will have to code some lambda + a frontend app.
-ReactJS will be your techno!
-
-## SPECIFICATIONS
-User - authentification
-Upload a file
-Versioning
-DNS/Routing
-
-## REQUIREMENTS
-A fully hosted version in the cloud. (at least until the correction happened)
-
-The url of your project will be store inside the readme.
-
-No more than 1 components per file.
-Additionals components will be in `src/components/`
-
-CSS will be in a file associated to the component: css for ExampleComponent.js will be in ExampleComponent.css.
-
-Your Readme will have to describe the project.
-Your .gitignore must remove node_modules/
-
-On the css/colors/design, you can be creative.
